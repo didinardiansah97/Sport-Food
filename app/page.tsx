@@ -160,6 +160,7 @@ export default function App() {
             value={formData.nama}
             onChange={handleChange}
             className="form-control"
+            autoComplete="off"
             required
           />
         </div>
@@ -173,6 +174,7 @@ export default function App() {
             value={formData.usia}
             onChange={handleChange}
             className="form-control"
+            autoComplete="off"
             required
           />
         </div>
@@ -186,6 +188,7 @@ export default function App() {
             value={formData.terakhirMakan}
             onChange={handleChange}
             className="form-control"
+            autoComplete="off"
             required
           />
         </div>
