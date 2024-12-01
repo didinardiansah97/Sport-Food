@@ -143,7 +143,7 @@ export default function App() {
 
   return (
     <div className="container py-2">
-      <h1 className="text-center mb-0 container mt-4">Web Panduan Lengkap Nutrisi untuk Setiap Jenis Olahraga</h1>
+      <h1 className="text-center font-semibold mb-0 container mt-4">Web Panduan Lengkap Nutrisi untuk Setiap Jenis Olahraga</h1>
       <img
         src="/image/olahraga.png"
         alt="Biodata Icon"  
